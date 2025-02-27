@@ -1,5 +1,3 @@
-# AIFinalProject
-The final project for EECS3401
 
 # Dataset
 https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_stocks.csv
